@@ -25,9 +25,7 @@ Users should be able to:
 - View the site optimally on their device's screen size
 - Experience hover states for all interactive elements
 
-### Screenshot
 
-![Screenshot of the Clipboard Landing Page](./screenshot-clipboard-landing-page.png)
 
 ### Links
 
@@ -58,6 +56,6 @@ MDN Web Docs - This site is a great resource for learning web development basics
 CSS-Tricks - I found the articles and guides here incredibly helpful for understanding CSS layout techniques and responsive design.
 
 Author
-Your Name - Add your name
+Rafaela Vaz Quaresma
 Frontend Mentor - @Raphaelavazq https://www.frontendmentor.io/profile/Raphaelavazq
 Github - @y[Raphaelavazq](https://github.com/Raphaelavazq)
